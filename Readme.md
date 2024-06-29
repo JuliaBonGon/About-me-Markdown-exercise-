@@ -1,14 +1,15 @@
 
 
-# Julia, currently in "development"... 
+# Julia, under "construction"... 
 _________
 
 ## Who am I?
 I'm a Spanish woman, mother of two, living in Belgium.
 I hate the weather here but luckily I **love** 🍫 :). 
 
-I studied translation and interpreting, never worked as such but in customer expericience roles and now I'm a motivated jr web developer learner.
+I studied translation and interpreting,  I never worked as such but instead alwas in customer expericience roles and now I'm a motivated jr web developer learner.
 I have absolute no previous knowledge but I'm taking this challenge. 💪
+I have compete in a lot of different water sports: swimming, synchronyzed swimming, underwater hockey, monofin.
 ________
 
 ## Which are my 3 most surprisingly skills?
@@ -32,28 +33,28 @@ ______
 
 ## My objectives during Becode are...
 
-- Learning the basis of coding and free comfortable about it
+- Learning the basis of coding and feeling comfortable about it
 - Find a job where I can apply my new skills
-- Became good at my job and be proud of myself
-- Get some positive self-esteem which I really need
+- Becoming good at my job and be proud of myself
+- Getting some positive self-esteem which I really need
 _____
 
 ## But every challenge comes with fears..
 
-I'm afraid of not find balance between the learning time, my family and my health.
+I'm afraid of not finding balance between the learning time, my family and my health.
 Not understanding what I need to learn.
 Not reaching my goals
 _____
 
 ## What keeps me going is...
 
-Learning new things, became **SUPER** good at it, find a great job.
+Learning new things, becoming **good** at it, finding a great job.
 
 _____
 
 ## What is nice about working in a team?
 
-1. Share ideas and information
+1. Sharing ideas and information
 2. Learning from others and being able to help others
 3. The afterward feeling of having achieved something all together
 
