@@ -62,4 +62,4 @@ _____
 ## Wondering what is my favourite gif?
 
 Well, I do not have one but I just found this on google
-<iframe src="https://giphy.com/embed/SUbYGyL0tlTtzglUps" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickjr-play-jumping-george-SUbYGyL0tlTtzglUps">via GIPHY</a></p>
+![Peppa Pig jumping in swimming pool](https://i.giphy.com/SUbYGyL0tlTtzglUps.webp)
