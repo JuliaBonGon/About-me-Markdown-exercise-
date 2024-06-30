@@ -22,8 +22,8 @@ _________
 
 ## You wanna know what I love?
 
-This 3 guys!! 
-![The most important ones](picture%20of%20the%203%20most%20important.jpg)
+This guys!! 
+![image](https://github.com/JuliaBonGon/About-me-Markdown-exercise-/assets/173886719/289b4a9a-d3c5-4e88-b264-d9c0f40188c4)
 
 But if you were expecting a list of things and not people here you have:
 - Chocolate and icecream (preferably a good pistache icecream). You might have guess this one already... :)) 🍦🍫
@@ -49,7 +49,6 @@ _____
 ## What keeps me going is...
 
 Learning new things, becoming **good** at it, finding a great job.
-
 _____
 
 ## What is nice about working in a team?
@@ -57,8 +56,7 @@ _____
 1. Sharing ideas and information
 2. Learning from others and being able to help others
 3. The afterward feeling of having achieved something all together
-
-_____
+____
 
 ## Wondering what is my favourite gif?
 
