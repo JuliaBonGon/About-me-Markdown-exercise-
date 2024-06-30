@@ -9,7 +9,7 @@ I hate the weather here but luckily I **love** 🍫 :).
 
 I studied translation and interpreting,  I never worked as such but instead alwas in customer expericience roles and now I'm a motivated jr web developer learner.
 I have absolute no previous knowledge but I'm taking this challenge. 💪
-I have compete in a lot of different water sports: swimming, synchronyzed swimming, underwater hockey, monofin.
+I have compete in a lot of different water sports: swimming, synchronyzed swimming, underwater hockey (go ahead and google this one), monofin.
 ________
 
 ## Which are my 3 most surprisingly skills?
@@ -27,9 +27,9 @@ This guys!! 👇
 ![image](https://github.com/JuliaBonGon/About-me-Markdown-exercise-/assets/173886719/289b4a9a-d3c5-4e88-b264-d9c0f40188c4)
 
 But if you were expecting a list of things and not people here you have:
-- Chocolate and icecream (preferably a good pistache icecream). You might have guess this one already... :)) 🍦🍫
+- You might have guess this one already... :)) 🍦🍫Chocolate and icecream (preferably a good pistache icecream). And I actually like to make them myself from scratch!
 - Warm dry sunny weather ☀️
-- Swimming (I mean in a sportive way not just having a bath in the swimming pool)🏊‍♀️
+- Swimming (I mean in a sportive way not just having a bath in the swimming pool)🏊‍♀️ I like to reach 120 laps.
 ______
 
 ## My objectives during Becode are...
