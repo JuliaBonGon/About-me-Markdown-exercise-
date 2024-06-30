@@ -22,8 +22,8 @@ _________
 
 ## You wanna know what I love?
 
-This 3 guys!! 
-![The most important ones](picture%20of%20the%203%20most%20important.jpg)
+This guys!! 
+![picture my kids](image.png)
 
 But if you were expecting a list of things and not people here you have:
 - Chocolate and icecream (preferably a good pistache icecream). You might have guess this one already... :)) 🍦🍫
