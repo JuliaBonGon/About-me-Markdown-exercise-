@@ -22,7 +22,7 @@ _________
 
 ## You wanna know what I love?
 
-This guys!! 👇
+These guys!! 👇
 
 ![image](https://github.com/JuliaBonGon/About-me-Markdown-exercise-/assets/173886719/289b4a9a-d3c5-4e88-b264-d9c0f40188c4)
 
