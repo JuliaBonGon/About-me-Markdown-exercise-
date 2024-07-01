@@ -22,9 +22,7 @@ _________
 
 ## You wanna know what I love?
 
-These guys!! 👇
-
-![image](https://github.com/JuliaBonGon/About-me-Markdown-exercise-/assets/173886719/289b4a9a-d3c5-4e88-b264-d9c0f40188c4)
+My partner and my two kids of course. 💖
 
 But if you were expecting a list of things and not people here you have:
 - You might have guess this one already... :)) 🍦🍫Chocolate and icecream (preferably a good pistache icecream). And I actually like to make them myself from scratch!
